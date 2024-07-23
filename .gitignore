@@ -33,3 +33,30 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+
+
+# Node modules
+node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# Build directories
+dist/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Environment files
+.env
